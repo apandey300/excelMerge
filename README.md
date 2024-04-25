@@ -1,2 +1,3 @@
-# excelMerge
-Merging Excel sheets to give consolidated data
+# ToDo List
+Interactive To-Do list - - a full stack project
+
